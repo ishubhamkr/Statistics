@@ -1,2 +1,2 @@
 # Statistics
-statistics problems solutions
+Statistics problems solutions
